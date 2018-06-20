@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">chatbot问答机器人</string>
+
+    <string name="tab2">消息</string>
+    <string name="tab3">我的</string>
+    <string name="create_infm_account">创建账号</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="create_account">创建账号</string>
+    <string name="reset_pwd">重置密码</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_forget_password">ForgetPasswordActivity</string>
+</resources>
